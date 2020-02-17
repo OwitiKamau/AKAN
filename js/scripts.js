@@ -1,12 +1,13 @@
 var myAlert = function myFunction(){
   var male= document.getElementById("male")
   var female= document.getElementById("female")
+  var date= document.getElementById("date").value
+  var month= document.getElementById("month").value
+  var year= document.getElementById("year").value
 
-  if (male. checked==true) {
-    alert("male")
-  } else if (female. checked ==true) {
-    alert("female")
+  if (year =="2002") {
+    alert("Good")
   } else {
-    alert("input correct value")
+    alert("wrong")
   }
 }
