@@ -11,9 +11,5 @@ var myAlert = function myFunction(){
 
   var day = d .getDay(0)
 
-  if (day = 1) {
-    alert("Monday")
-  } else {
-    alert("wrong")
-  }
+  
 }
