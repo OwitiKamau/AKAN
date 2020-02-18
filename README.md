@@ -17,5 +17,5 @@ In case of any issues regarding the operation of this page, please contact the d
 * Email : @arekama20@gmail.com
 * Telephone : +254791717287
 ### License
-Licence under the [MIT licence] (LICENCE)
+Licenced under the [MIT license] (LICENCE)
 Copyright (c) {2020} Owiti Kamau
