@@ -6,7 +6,7 @@ var myAlert = function myFunction(){
   var year= document.getElementById("year").value
   var d = new Date()
   d .setDate(parseInt(date))
-  d .setMonth(parseInt(month)) 
+  d .setMonth(parseInt(month) -1) 
   d .setFullYear(parseInt(year))
 
   var day = d .getDay(0)
